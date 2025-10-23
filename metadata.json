@@ -1,0 +1,7 @@
+{
+  "name": "Fluent Speaker AI",
+  "description": "An interactive language learning chatbot that helps you practice speaking a new language. Select your native and target languages, and converse with an AI tutor who provides feedback and guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
